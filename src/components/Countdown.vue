@@ -20,8 +20,6 @@ export default {
   methods: {
     tick() {
       if (this.seconds <= 0) {
-        // console.log(`this.seconds <= 0!!!`);
-        // clearInterval(this.tick);
         return;
       }
       this.seconds = this.seconds - 1;
