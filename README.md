@@ -1,6 +1,6 @@
-# vue-component
+# vue-countdown
 
-## Vue.js countdown component
+A simple Vue.js countdown component.
 
 To run locally:
 
